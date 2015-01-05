@@ -1,7 +1,7 @@
 Role: cns.vpc-info
 ========
 
-This role gathers target VPC configuration information. It registers a playbook-global variable, vpc, for use in roles / tasks that require vpc related specifics.
+This role gathers target AWS VPC configuration information. It registers a playbook-global variable, vpc, for use in roles / tasks that require vpc related specifics.
 
 Requirements
 ------------
